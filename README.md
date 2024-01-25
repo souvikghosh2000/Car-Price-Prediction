@@ -1,6 +1,5 @@
 # Car Price Prediction
 
-![Car Price Prediction](link_to_your_project_image)
 
 ## Overview
 
